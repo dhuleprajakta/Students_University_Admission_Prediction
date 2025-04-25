@@ -10,10 +10,6 @@ Predicting university admissions of students based on academic and test performa
 
 This project predicts the chances of a student's university admission using machine learning techniques based on features such as GRE Score, TOEFL Score, CGPA, and more. It includes data preprocessing, exploratory data analysis, model training, evaluation, and prediction.
 
-## 📸 Project Screenshot
-
-![Admission Prediction Output](admisssion_prediction.png)
-
 ## 📁 Dataset
 The dataset contains information about students’ academic performance and other factors influencing admissions, such as:
 - GRE Score
