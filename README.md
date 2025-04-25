@@ -50,7 +50,6 @@ The dataset contains information about students’ academic performance and othe
 The project demonstrates how machine learning can help in predicting student admission probabilities effectively, helping students and institutions make data-driven decisions.
 
 ## 📂 Project Structure
-## 📂 Project Structure
 ├── dataset/ │ └── admission_data.csv ├── notebooks/ │ └── admission_prediction.ipynb ├── models/ │ └── final_model.pkl ├── admisssion_prediction.png ├── README.md
 
 
