@@ -3,9 +3,7 @@ Predicting university admissions of students based on academic and test performa
 
 
 
-## 📸 Project Screenshot
-
-![Admission Prediction Output](https://github.com/dhuleprajakta/admission-prediction/raw/main/images/Admission_prediction.png)
+![Admission Prediction Output](images/Admission_prediction.png)
 
 
 
